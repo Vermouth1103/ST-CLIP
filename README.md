@@ -1,6 +1,6 @@
 # ST-CLIP
 
-This is the official code repository for ST-CLIP. After the paper is accepted, we will release a portion of the anonymized image data. At this stage, we have provided detailed descriptions of the data format for reference and reproducibility.
+This is the official code repository for ST-CLIP. At this stage, we have provided detailed descriptions of the data format for reference and reproducibility. After the paper is accepted, we will release a portion of the anonymized image data.
 
 - **[train.py]** is the entry point to run the model.
 
