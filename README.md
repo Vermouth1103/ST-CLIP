@@ -25,9 +25,11 @@ This is the official code repository for ST-CLIP. At this stage, we have provide
     Partitioned dataset. It contains three keys: *train*, *val*, and *test*. Each value is a dataset as described above.
 
   - link_profile_dict.json
-   
+  
     Road segment properties. The key is road IDs, and the value is the corresponding attribute feature.
 
   - link_traj_dict.json
 
     The trajectory of road segments. The key is the name of images, and the value is the corresponding road segment-based trajectory.
+
+  ***For more details, please refer to the dataset sample.***
